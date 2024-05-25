@@ -11,13 +11,23 @@ Fun with archimedean spiral in sas r cartesian and polar plots
     inspired by
     http://stackoverflow.com/questions/41391271/plot-an-archimedean-spiral-in-r-with-ggplot2
 
-       SOLUTIONS
-
-           0 sas ascii line plot
-           1 r polar coordinates (r,r*theta)
-           2 r cartesian (x,y) plot (cos(theta), r * sin(theta))
-           3 sas cartesian (x,y) plot (cos(theta), r * sin(theta))
-
+       SOLUTIONS (links are to hi res graphics)                                                                                                   
+                                                                                                                                              
+       0 sas ascii line plot                                                                                                                  
+         se below                                                                                                                             
+                                                                                                                                              
+       1 r polar coordinates (r,r*theta)                                                                                                      
+         https://tinyurl.com/538zk9cs                                                                                                         
+                                                                                                                                              
+         https://github.com/rogerjdeangelis/utl-fun-with-archimedean-spiral-in-sas-r-cartesian-and-polar-plots/blob/main/r_polar.png          
+       2 r cartesian (x,y) plot (cos(theta), r * sin(theta))                                                                                  
+         https://tinyurl.com/yc83sfr4                                                                                                         
+         https://github.com/rogerjdeangelis/utl-fun-with-archimedean-spiral-in-sas-r-cartesian-and-polar-plots/blob/main/r_cartesian.png      
+                                                                                                                                              
+       3 sas cartesian (x,y) plot (cos(theta), r * sin(theta))                                                                                
+         https://tinyurl.com/z6w4pmyb                                                                                                         
+         https://github.com/rogerjdeangelis/utl-fun-with-archimedean-spiral-in-sas-r-cartesian-and-polar-plots/blob/main/sas_cartesian.png    
+                                                                                                                                              
     /*               _     _
      _ __  _ __ ___ | |__ | | ___ _ __ ___
     | `_ \| `__/ _ \| `_ \| |/ _ \ `_ ` _ \
